@@ -1,3 +1,13 @@
+.todo-container{
+
+    border: #303102 solid 1px;
+    border-radius: 8%;
+    padding: 5%;
+    max-width: 420px;
+    margin: 30 auto;
+    background-color: #fcecc1;
+}
+
 
 #task-list {
     list-style: none;

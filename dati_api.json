@@ -31,9 +31,9 @@
       "id": "MehTe2wfv-I"
     },
     {
-      "title": "test",
-      "completed": true,
-      "id": "3hc30ljy5Eo"
+      "title": "test2",
+      "completed": false,
+      "id": "DyvmU5yebUc"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
