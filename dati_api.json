@@ -1,0 +1,40 @@
+{
+  "todos": [
+    {
+      "title": "andare a cena con moglie",
+      "completed": true,
+      "id": "kKF7TIS5LX8"
+    },
+    {
+      "title": "portare fuori il criceto",
+      "completed": false,
+      "id": "eFspV4MrBuU"
+    },
+    {
+      "title": "pagare le tasse",
+      "completed": true,
+      "id": "0HyI3Sz74YA"
+    },
+    {
+      "title": "mangiare patatine",
+      "completed": false,
+      "id": "omSbYdcnUj8"
+    },
+    {
+      "title": "mangiare pasta",
+      "completed": false,
+      "id": "qvCdZC3Wdmo"
+    },
+    {
+      "title": "prova",
+      "completed": false,
+      "id": "MehTe2wfv-I"
+    },
+    {
+      "title": "test",
+      "completed": true,
+      "id": "3hc30ljy5Eo"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
